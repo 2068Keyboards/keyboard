@@ -1094,6 +1094,13 @@ section.lazy-placeholder:after {
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/0acbb619105b9bfc95733eff1403ff2b-2000x1125.jpg");
 }
+.cid-qTkA127IK8 .mbr-text,
+.cid-qTkA127IK8 .mbr-section-btn {
+  color: #ff0000;
+}
+.cid-qTkA127IK8 H1 {
+  color: #ff0000;
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
